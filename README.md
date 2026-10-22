@@ -1,6 +1,5 @@
 # Proyecto Integrador: Análisis de Sentimiento (Strata)
 
-**Institución:** UNSTA - Ingeniería en Inteligencia Artificial  
 **Asignatura:** Taller II  
 **Estudiante:** Ana Nieva Pastoriza  
 
