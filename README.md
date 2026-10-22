@@ -1,5 +1,5 @@
 # Proyecto Integrador: Análisis de Sentimiento (Strata)
-
+**Universidad del Norte Santo Tomás de Aquino**
 **Asignatura:** Taller II  
 **Estudiante:** Ana Nieva Pastoriza  
 
