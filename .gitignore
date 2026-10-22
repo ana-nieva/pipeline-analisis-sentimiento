@@ -1,0 +1,10 @@
+# Ignorar entornos virtuales
+env/
+__pycache__/
+
+# Ignorar datasets pesados y modelos guardados
+datasets/
+*.csv
+*.npz
+*.npy
+*.joblib
